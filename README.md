@@ -31,7 +31,7 @@ The Basketball Scoreboard App is a simple web-based scoreboard that allows users
 - Store scores using local storage to retain data on page reload.
 
 ## Author
-Developed by [Peter Mburu].
+Developed by Peter Mburu.
 
 ## License
 This project is open-source and available for modification and distribution.
